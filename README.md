@@ -11,4 +11,6 @@ The main data files are:
 	  	1. response5.csv (training set response) and test_response.csv (test set response)  
 	  	2. captions_f.json (training set caption data) and captions_test_f.json (test set caption data)  
 	  	3. train2.json and test2.json are data set of other talk information for the training and test sets, respectively  
-	  	4. talks_other_text.json and validset_other_text.json are the text data from (description, title, tag) for the training and test sets, respectively
+	  	4. talks_other_text.json and validset_other_text.json are the text data from (description, title, tag) for the training and test sets, respectively  
+
+The presentation on this project can be found here: http://www.slideshare.net/YesuFeng/how-to-make-a-tailored-ted-talk
