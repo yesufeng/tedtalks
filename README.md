@@ -1,5 +1,7 @@
 ## How to make a tailored TED talk: Data analysis on the key features of different types of TED talks
 ---
+#### More on this project can be found in this [presentation](http://www.slideshare.net/YesuFeng/how-to-make-a-tailored-ted-talk)
+
 This is a data analysis work on data of more than 1800 TED talks (with transcripts). TED has been asking viewers to rate talks using rating words (beautiful, courageous, inspiring, confusing, etc.). With rich data on TED talks (transcripts, speaker information, topic of talk, etc.), it would be interesting to see what are the key factors to make e.g., an emotionally touching (rated as inspiring, courageous) vs a rationally convincing (rated as informative and persuasive) talk. Also, what leads to a negatively rated talks (talks that receive many rating words such as unconvincing, confusing, long-winded, etc). These insight can not only provide prediction of ratings to a newly published TED talk but more important can serve as guidelines to speakers to make a tailored TED talk. 
 
 The main analytics is shown in the notebook named "How to make a tailored TED talk?". Main preprocessing of features and rating labels are done in the following notebooks:  
@@ -13,4 +15,3 @@ The main data files are:
   3. train2.json and test2.json are data set of other talk information for the training and test sets, respectively  
   4. talks_other_text.json and validset_other_text.json are the text data from (description, title, tag) for the training and test sets, respectively  
 
-More on this project can be found in this [presentation](http://www.slideshare.net/YesuFeng/how-to-make-a-tailored-ted-talk)
