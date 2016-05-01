@@ -4,7 +4,7 @@
 
 This is a data analysis work on data of more than 1800 TED talks (with transcripts). TED has published rich data on talks (transcripts, speaker information, topic of talk, etc.) through its API. Moreover, TED has asked audience to rate talks using 14 rating words (e.g., Beautiful, Convincing, Inspiring, Long-winded, etc.). 
 
-This project aims at analyzing the topic distribution of these over 1800 TED talks that had been put online by May, 2015. Recommendations of similar talks can be made based on talk topic similarities and speaker background similarities. It would be also interesting to see correlations between topic distribution and the ratings a talk received. Combined with other aspects of the talks (e.g., delivery skills) these insight can not only provide prediction of ratings to a newly published TED talk but more importantly can serve as guidelines to speakers to make a tailored TED talk. 
+This project aimed at analyzing the topic distribution of these over 1800 TED talks that had been put online by May, 2015. Recommendations of similar talks can be made based on talk topic similarities and speaker background similarities. It would be also interesting to see correlations between topic distribution and the ratings a talk received. Combined with other aspects of the talks (e.g., delivery skills) these insight can not only provide prediction of ratings to a newly published TED talk but more importantly can serve as guidelines to speakers to make a tailored TED talk. 
 
 #### Summary of the IPython Notebooks
   1. Topic modeling: topic analysis of over 1500 talks in the training set was done using both 
