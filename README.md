@@ -26,4 +26,6 @@ This project aimed at analyzing the topic distribution of these over 1800 TED ta
   2. captions_f3.json (training set caption data) and captions_test_f3.json (test set caption data)  
   3. train3.json and test3.json are data set of other talk information for the training and test sets, respectively  
   4. talks_other_text.json and validset_other_text.json are the text data from (description, title, tag) for the training and test sets, respectively  
+  5. ./data folder saved all topic modeling results from the LSI models
+  6. ./r2py folder saved all topic modeling results from the LDA models
 
