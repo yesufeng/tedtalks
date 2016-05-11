@@ -1,6 +1,6 @@
 ## Topic Modeling on TED Talks: talk recommendation and rating prediction
 ---
-#### More on this project can be found in this [presentation](http://www.slideshare.net/YesuFeng/how-to-make-a-tailored-ted-talk)
+#### More on this project can be found in this
 
 This is a data analysis work on data of more than 1800 TED talks (with transcripts). TED has published rich data on talks (transcripts, speaker information, topic of talk, etc.) through its API. Moreover, TED has asked audience to rate talks using 14 rating words (e.g., Beautiful, Convincing, Inspiring, Long-winded, etc.). 
 
