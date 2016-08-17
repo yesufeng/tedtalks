@@ -6,7 +6,7 @@ This is a data analysis work on data of more than 1800 TED talks (with transcrip
 This project aimed at analyzing the topic distribution of these over 1800 TED talks that had been put online by May, 2015. Recommendations of similar talks can be made based on talk topic similarities and speaker background similarities. It would be also interesting to see correlations between topic distribution and the ratings a talk received. Combined with other aspects of the talks (e.g., delivery skills) these insight can not only provide prediction of ratings to a newly published TED talk but more importantly can serve as guidelines to speakers to make a tailored TED talk. 
 
 #### Summary of the IPython Notebooks
-  1. Topic modeling: topic analysis of over 1500 talks in the training set was done using both LSI and LDA. A summary visualization of topic distribution among the 1500 TED talks can be seen [here](http://htmlpreview.github.io/?https://github.com/yesufeng/tedtalks/r2py/lda_25_3_auto.html)
+  1. Topic modeling: topic analysis of over 1500 talks in the training set was done using both LSI and LDA. A summary visualization of topic distribution among the 1500 TED talks can be seen [here](http://htmlpreview.github.io/?https://github.com/yesufeng/tedtalks/blob/master/r2py/lda_25_3_auto.html)
       + Latent Semantic Indexing (LSI, **Ted_9_topic_modeling_LSI**)
       + Latent Dirichlet Allocation (LDA, **Ted_9_topic_modeling_LDA**)
       + Visualization of topic-word distribition (LDA, **Ted_12_LDA_topic_distribution**)
